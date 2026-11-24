@@ -1,0 +1,4 @@
+.vercel
+.local-preview/
+.local-tools/
+__pycache__/
